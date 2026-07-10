@@ -16,7 +16,7 @@ A dynamic business intelligence dashboard was required to transform this raw dat
 
 This interactive, single-page dashboard was designed to provide an executive-level summary, allowing stakeholders to view key metrics and identify the most statistically significant drivers of turnover at a glance.
 
-![Screenshot HR - Turn Over.png]()
+![Screenshot HR - Turn Over.png](https://github.com/afauzir-pf/bi-hr-turnover/blob/main/Screenshot%20HR%20-%20Turn%20Over.png)
 
 ---
 ### 3. Key Insights & Findings
